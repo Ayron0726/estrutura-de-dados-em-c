@@ -1,3 +1,5 @@
+//Diferenças entre alocação estática e automática
+
 #include <stdio.h>
 
 static int a=0; // Variável global, alocação estática
